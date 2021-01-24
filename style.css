@@ -1,0 +1,36 @@
+.places_visit_div{
+    border: 1px solid #c7c7c7;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+}
+
+.places_visit_div img{
+    width: 100%
+}
+
+.places_visit_div hr{
+    width: 250px;
+}
+
+.places_visit_div h5 , .places_visit_div p{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.hotel_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.hotel_head i{
+    float: right;
+}
+
+.hotel_text span{
+    color: #ff7700;
+}
